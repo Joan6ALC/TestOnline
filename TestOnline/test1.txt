@@ -1,0 +1,15 @@
+Test de conduccion 1
+Test preparatorio para el permiso B
+20
+10
+4
+1.- Su vehículo se desvía hacia un lado cuando usted frena. Usted debería:[a] Cambiar los neumáticos de un lado hacia el otro y viceversa.[b] Bombear el pedal al frenar.[c] Usar su freno de mano.[d] Consultar con su mecánico lo antes posible.
+2.- Su vehículo se desvía hacia un lado cuando usted frena. ¿Cuál es la falla más probable?[a] Un bajo nivel del líquido de frenos.[b] Su freno de mano está todavía puesto.[c] Frenos mal ajustados.[d] Neumáticos con presión de aire inadecuada.
+3.- Mientras conduce usted siente un fuerte olor a gasolina. ¿Qué debería hacer usted?[a] No preocuparse, ya que sólo son los gases de escape.[b] Continuar a una velocidad reducida.[c] Continuar porque sabe que se detendrá algunos kilómetros más allá.[d] Detenerse e investigar el problema.
+4.- ¿Cómo puede prevenir usted el riesgo de incendio de su vehículo?[a] Manteniendo los niveles de agua sobre el máximo.[b] Evitando conducir con el estanque lleno de combustible.[c] Usando gasolina sin plomo.[d] Revisando su vehículo ante cualquier olor a gasolina extraño.
+5.- ¿Por qué es importante usar zapatos apropiados cuando conduce?[a] Para tener un adecuado control de los pedales.[b] Para evitar el desgaste acelerado de las gomas de los pedales.[c] Para poder efectuar los cambios de marcha más rápidamente.[d] Para poder caminar sin problemas en el caso que necesite solicitar ayuda.
+6.- En un automóvil, ¿cuál de los siguientes elementos reduce el riesgo de lesiones de cuello en una colisión?[a] Un asiento dotado de air-bag (bolsa de aire).[b] Los frenos ABS.[c] Una columna de dirección colapsable.[d] Un asiento con apoya-cabeza ajustado en forma apropiada.
+7.- ¿Qué significa esta luz de advertencia en el panel de instrumentos?[a] Luces neblineras.[b] Intermitentes de advertencia de peligro.[c] Luces altas.[d] Freno de mano puesto.
+8.- Es esencial que la presión de los neumáticos sea chequeada regularmente. ¿Cuándo se debe hacer esto?[a] Después de un viaje largo.[b] Después de conducir a alta velocidad.[c] Cuando los neumáticos están fríos.[d] Cuando los neumáticos están calientes.
+9.- La presión de los neumáticos debe revisarse:[a] Cuando los neumáticos están fríos.[b] Cuando los neumáticos están calientes.[c] En cualquier momento, porque da igual que los neumáticos estén fríos o calientes.         [d] Ninguna de las anteriores.      
+10.- ¿Cuál de estos líquidos, en el caso de estar en un nivel bajo, podría causar un accidente?[a] El líquido de freno.[b] El anticongelante.[c] El agua de la batería.[d] El líquido refrigerante.         

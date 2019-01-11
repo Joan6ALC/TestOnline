@@ -1,0 +1,1 @@
+Persona{nom=joan, data=, test=1, resultat=INSUFICIENT}

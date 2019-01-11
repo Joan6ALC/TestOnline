@@ -1,0 +1,15 @@
+Test de conducción 2
+Test preparatorio para el permiso B
+20
+10
+4
+1.- Frente a una situación normal, ¿cuál es la forma más segura de frenar? [a] Frenando fuerte, poniendo la palanca de cambio en neutro y tirando el freno de mano justo antes de detenerse. [b] Frenando suavemente, presionando el pedal de embrague y tirando el freno de mano justo antes de detenerse. [c] Poniendo la palanca de cambio en neutro, frenando fuerte y luego soltando el freno justo antes de detenerse. [d] Frenando suavemente, luego un poco más fuerte cuando comienza a detenerse y después aflojando de a poco el freno antes de detenerse.
+2.- ¿Cuándo usaría usted las luces intermitentes de advertencia de peligro? [a] Cuando esté en pana obstruyendo el tránsito. [b] Cuando se estacione en doble fila respecto a otro vehículo estacionado junto a la cuneta. [c] Cuando estacione junto a una cuneta en la que hay línea amarilla pintada. [d] Cuando sus señalizadores de viraje no estén funcionando. 
+3.- Las luces de advertencia de peligro deberían ser usadas: [a] Cuando estaciona en doble fila respecto a otro vehículo estacionado junto a la cuneta. [b] Para advertir a quienes vienen detrás de un peligro que hay más adelante. [c] Para advertir a quienes vienen detrás suyo que usted pretende virar. [d] Para advertir a los demás que usted tiene prisa.
+4.- ¿Cuándo usaría usted las luces de advertencia de peligro de su vehículo? [a] Cuando esté en pana moviéndose lentamente. [b] Cuando esté siendo remolcado. [c] Cuando esté retrocediendo en una calle de poco tránsito. [d] Cuando esté en pana y obstaculizando el tránsito.
+5.- Usted está probando la suspensión de su vehículo cuando nota que éste rebota u oscila al cargarlo en un extremo lateral frontal. ¿Qué significa esto? [a] Neumáticos gastados. [b] Neumáticos poco inflados. [c] Volante de dirección no centrado. [d] Amortiguadores gastados.
+6.- ¿Por qué los neumáticos deben mantenerse a la presión indicada por el fabricante? [a] Para que el vehículo se mantenga a la altura correcta sobre la vía. [b] Para no desgastar el motor. [c] Para ayudar a evitar que el automóvil se roncee. [d] Para evitar que el automóvil se incline hacia un lado.
+7.- ¿A qué se debe un alto consumo de combustible? [a] Fallas en el sistema de dirección. [b] Aceleraciones en curvas. [c] Frecuentes frenadas y aceleraciones. [d] Conducción en marchas altas. 
+8.- La profundidad de los surcos de los neumáticos de un automóvil no debería ser inferior a ... [a] 5.0 mm [b] 4.0 mm [c] 1.6 mm [d] 1.0 mm
+9.- ¿Qué es lo que usted nunca debería hacer en una bomba de bencina? [a] Circular por ella [b] Fumar [c] Comer [d] Lavar los parabrisas 
+10.- Desenganchar el motor del vehículo... [a] permite un mejor control al conductor. [b] hace más fácil las maniobras. [c] aumenta el consumo de combustible. [d] reduce el control del conductor.
